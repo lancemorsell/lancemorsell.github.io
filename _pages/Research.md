@@ -1,0 +1,163 @@
+---
+toc: false
+tocsticky: false
+author_profile: true
+permalink: /research/
+title: "Research"
+classes: wide
+---
+
+> ## Publications
+
+  
+### Weller, Adee. 2025. ["Defending the Status Quo? How Re-election Shapes Criminal Collusion in Mexico."](https://www-cambridge-org/core/journals/british-journal-of-political-science/article/defending-the-status-quo-how-reelection-shapes-criminal-collusion-in-mexico/4704514BABCBB03E6DCC60161112CE8D?utm_date=20251030&utm_id=1761812774&utm_campaign=JPS,Open%20Access&utm_source=bluesky&utm_medium=social&utm_content) _British Journal of Political Science_ 55:e144. [Pdf.](https://www.dropbox.com/scl/fi/tzj1w8myf49f51onpnyya/defending-the-status-quo-how-re-election-shapes-criminal-collusion-in-mexico.pdf?rlkey=1k380lsnwdun0cf794q012j22&st=l1qjdukn&dl=0) [Appendix.](https://www.dropbox.com/scl/fi/gpjqkk0rusqy3xhwhogou/BJPolS_Final_SI.pdf?rlkey=e3s1t8o154b6aihnlp6pykit4&st=mthlcmcs&dl=0)
+
+<details>
+  <summary>Abstract</summary>
+
+How does the introduction of mayoral re-election shape organized crime's efforts to collude with local officials? While re-election can provide voters with a critical mechanism to hold elected officials accountable, I show that the positive benefits of re-election do not extend to high-crime areas. Where organized crime is powerful and deeply entrenched in local illicit economies, re-election can provide groups opportunities to collude more closely with mayors, engaging in more electoral violence to deter challengers and benefiting from access to state protection. Exploiting exogenous variation in the introduction of mayoral re-election in Mexico using a difference-in-differences design and a novel dataset on violence against local politicians, I show that criminal groups disproportionately killed rival candidates in places where incumbents could run for ree-lection, maintaining the status quo and keeping incumbents in power. Further, re-electable mayors were more likely be found to engage in corruption following the introduction of re-election, only in high-crime areas. This letter highlights the unintended consequences of institutional reforms in high-crime areas, emphasizing the need for tailored guardrails by policy-makers to reduce these collateral effects.
+</details>
+
+* _Keywords:_ criminal violence; Mexico; re-election; mayoral assassination; corruption
+
+### Weller, Adee; [Daniel Arnon](https://sgpp.arizona.edu/person/daniel-arnon); [Michael Rubin](https://www.michaelarubin.com/). 2026. ["The Politics of Punishment in Mandate Palestine: Administrative Capacity, Social Cleavages, and the Repertoires of Colonial Repression."](https://doi.org/10.1080/03050629.2026.2723773) _International Interactions._ [Pdf with Appendix](https://www.dropbox.com/scl/fi/7fz8nfa7n07vk0q0r7c5s/The-politics-of-punishment-in-Mandate-Palestine-Administrative-capacity-social-cleavages-and-the-repertoires-of-colonial-repression.pdf?rlkey=mx9l36azv0jbjtj7row1yowfz&st=xvmpm27y&dl=0)
+
+
+<details>
+  <summary>Abstract</summary>
+  Why do colonial regimes deploy different forms of repression against communities within the colonial domain? Existing explanations emphasize the scale of dissent activity and regime capacity, yet these factors alone are insufficient to explain the local variation in colonial repression. We argue community-level political and social dynamics shape both the information available to the regime and its administrative ability to implement specific repressive tactics. First, long-standing intra-village rivalries generate streams of denunciations that provide authorities with actionable intelligence, increasing the likelihood of lethal violence. Second, local intermediaries expand the regime's administrative capacity, enabling the imposition of non-lethal but institutionally demanding forms of repression, such as collective fines, while also facilitating more targeted lethal force in high-resistance areas. We evaluate this argument in the British Mandate of Palestine during the Arab Revolt (1936–1939) using an original village-level dataset integrating British, Zionist, and Palestinian archival sources to measure repression, social conflict, leadership ties, and resistance across more than 300 localities. The findings show that local social structures systematically conditioned colonial repertoires of coercion, offering new insight into the microfoundations of indirect rule, information politics, and the enduring legacies of late-colonial counterinsurgency. 
+</details>
+
+ * _Keywords:_ Colonial rule; repression; British Mandate Palestine; archival records
+
+
+> ## Working Papers
+
+Please [email me](mailto:adee.weller@psu.edu) for the latest drafts.
+
+
+
+### "Empires of Blood and Ruin: Selective Protection and Control in Colonial Regimes"
+
+_Revise and Resubmit._ 
+
+<details>
+  <summary>Abstract</summary>
+How do colonial regimes use selective repression to manage elite agents and consolidate authority? I argue that colonial authorities prioritize repression of criminal actors in areas governed by loyal elites while withholding protection from those seen as disloyal, using disorder as both a threat and a justification to extract compliance. Drawing on  original data from over 10,000 pages of internal correspondence from the English East India Company (1769–1773), I analyze how British officials responded to criminal violence in early colonial Bengal. Combining qualitative analysis with machine-learning-assisted text digitization and statistical modeling, I show that criminal violence increased repression, but only in districts governed by trusted elites. Where elite loyalty was in doubt, the Company withheld security, weaponizing instability to pressure subordinates into collaboration. This study contributes to research on authoritarian governance, colonial state-building, and the political logic of repression, offering rare insight into how regimes exploit coercion, information asymmetries, and elite competition to consolidate power under conditions of limited state capacity.
+
+</details>
+
+ * _Keywords:_ Colonial state-building; strategic repression; crime regulation; English East India Company; archival evidence
+
+### "Violence Incorporated? How States Discern Between Pro-Government Militias"
+
+_Under Review._ 
+
+ * _Written with:_ Danielle Villa, [Emily Gade](https://emilykgade.com/), and [Sarah Dreier](https://skdreier.weebly.com/)
+
+<details>
+  <summary>Abstract</summary>   
+Why do states deeply collude with some pro-government militias (PGMs) while keeping others at arm's length? We argue that states collude more closely with PGMs which not only provide coercive benefits, but can provide outsourced governance to specific communities and enforce order. Particularly salient in democratic regimes, this delegated governance provides administrations with plausible deniability, access to localized information, and outsources control of community-level revolt and resistance. Using 8,430 declassified documents from the British Prime Minister's security correspondence files (1969–1973), we examine how the British government managed these trade-offs during the Northern Ireland conflict. We show that states are most likely to form deep alliances with PGMs viewed as both militarily effective and could govern Protestant communities. When governability is uncertain, even highly capable PGMs receive only limited or tactical support. By providing the first internal account of how a democratic state amassed and managed PGMs during an active conflict, this study emphasizes the role of armed, non-state groups in shaping the reach of state governance and how these groups can both challenge and extend state capacity. 
+</details>
+
+ * _Keywords:_ Loyalist paramilitaries; UDA; UVF; collusion; pro-government militias; qualitative research; Northern Ireland
+
+
+### "Echoes of Intervention: Conflict in the Interim of the Multinational Security Support Mission in Haiti"
+
+ * _Written with:_ [Martin Castillo Quintana](https://sites.google.com/view/martin-castillo-quintana/home?pli=1), [Camila Contreras](https://sites.google.com/view/camilacontrerasm/about), and Mathias Lusquinos. 
+
+<details>
+  <summary>Abstract</summary>
+      How do international, armed, humanitarian interventions shape gang violence in fragile security environments? Focusing on the U.N. Multinational Security Support (MSS) Mission in Haiti (2023--present), we exploit a daily panel of commune-level data on gang violence, using data from ACLED and Haitian press reports, to trace the impact of five exogenous information shocks on the mission's likelihood and timing. We find that as the intervention appeared more imminent, gangs reduced inter-gang clashes and forged tactical alliances, redirected violence toward the state, and escalated remote attacks on infrastructure. By integrating high-frequency measures of gang violence across multiple actor types, this study contributes to research on the consequences of external security governance, showing that the pre-deployment phase of intervention is a politically charged period in which armed criminal actors adapt in ways that can entrench insecurity before the first foreign boots touch the ground.
+
+</details>
+
+ * _Keywords:_ Haiti; Gang Violence; Signaling; ITS; MSS; Kenyan Intervention
+
+
+### "Do Election Observers Increase Trust in Democracies?: Messenger Effects from a National Experiment in the United States"
+
+ * _Written with:_ Nicklas Stein, Emily Carrillo and [Anthony J. DeMattee](https://www.demattee.com/)
+
+<details>
+  <summary>Abstract</summary>
+    How does the provision of public goods by foreign corporations shape electoral engagement? While voters often rely on public goods as indicators of incumbent quality, foreign corporate actors can shape the responsiveness of politicians and the ability of voters to hold them accountable. When corporations, rather than the state, provide public goods, traditional forms of democratic accountability weaken, prompting politicians to prioritize foreign corporate interests and leading citizens to turn to alternative mechanisms, like protest or collective action, to hold both political and corporate actors accountable. We examine the multinational corporate provision of public goods in Northern Mozambique, following the discovery of liquefied natural gas (LNG) in 2006, utilizing a novel collection of concession agreements between the Mozambican government and multinational corporations. We show that, following substantial investments in public infrastructure in areas relevant to LNG extraction, voters were much less likely to vote or campaign, while other non-electoral activities were not affected. This project offers insight into how multinational corporate actors indirectly shape democratic engagement, particularly in developing countries. 
+
+</details>
+
+ * _Keywords:_ Elections; election observers; trust in institutions; polarization; democracy; survey experiment
+
+
+### "Unelected Providers: How does Foreign Corporate Goods Provision Shape Political Participation?"
+
+ * _Written with:_ Gavin Kiger, Americo Maluana, William Wainwright, and [Danielle Jung](https://www.daniellejung.com/)
+
+<details>
+  <summary>Abstract</summary>
+How does the provision of public goods by foreign corporations, rather than state actors, shape electoral engagement? Public goods are often cited as a core feature of local democratic accountability, with voters rewarding or sanctioning elected officials according to the goods they receive and politicians prioritizing public goods and investments to maximize electoral benefits. Yet, when corporations, rather than state actors, provide these goods, this can weaken traditional mechanisms of accountability. Under these conditions, voting neither sanctions nor rewards public goods, and politicians can gain political and electoral support from powerful corporate actors. Thus, this provision undermines the value and importance of electoral participation and reduces voter turnout, particularly when voting is costly. We examine the multinational corporate provision of public goods in Northern Mozambique, following the discovery of liquefied natural gas (LNG) in 2006, utilizing a novel collection of concession agreements between the Mozambican government and multinational corporations and an original household survey of residents in Cabo Delgado. We show that, following substantial investments in public infrastructure in areas relevant to LNG extraction, voters were much less likely to vote or campaign, while other non-electoral activities were not affected. This project offers insight into how multinational corporate actors indirectly shape democratic engagement, particularly in developing countries. 
+</details>
+
+ * _Keywords:_ Mozambique; accountability; corporations; public goods; voting; non-state governance; LNG; concession agreements; survey
+
+ 
+### "Gang Violence and Mobility Suppression in Haiti"
+
+ * _Written with:_ [Martin Castillo Quintana](https://sites.google.com/view/martin-castillo-quintana/home?pli=1), [Camila Contreras](https://sites.google.com/view/camilacontrerasm/about), and Mathias Lusquinos. 
+
+<details>
+  <summary>Abstract</summary>
+       How does criminal violence reshape how civilians move about their communities? While criminal violence is widely cited as a driver of displacement, we know much less about how gangs governing territory shape mobility in the short run. We argue that mobility is central to criminal governance. When gangs control neighborhoods, roads, and transport corridors, violence can function not only as a tool of punishment or competition, but also as a means of regulating civilian movement. As territorial order deteriorates, movement becomes both more suspect and more dangerous, producing short-run immobilization even as civilians’ incentives to leave rise. We examine this argument in Haiti, where gangs operate as de facto authorities across much of Port-au-Prince and surrounding areas. Using daily commune-level data on gang violence and anonymized mobility estimates derived by Flowminder from Digicel call detail records, we trace how violent events shape intra- and inter-commune movement. We find that gang violence produces immediate and significant declines in mobility, with each additional violent event depresses localized movements in the following days. The effects are shape both within- and across-commune travel and are especially large following attacks on infrastructure. The paper shows that gang violence can serve as a mechanism of territorial immobilization and provides insight into how civilians navigate criminally governed space.
+
+</details>
+
+ * _Keywords:_ Criminal governance; territorial control; civilian mobility; displacement; gang vio-
+lence; Haiti
+
+
+> ## Works in Progress
+
+### "Empires of Blood and Ruin: How Criminal Violence Shapes State Formation" (_Book Project_) 
+
+### "Understanding Gang Reactions to International Humanitarian Intervention in Haiti"
+
+ * _Written with:_ [Martin Castillo Quintana](https://sites.google.com/view/martin-castillo-quintana/home?pli=1) and Reynell Badillo Sarmiento
+
+### "Informal Empire: How to Coerce Your Allies and Manipulate Your Friends"
+
+### "Resource Extraction and the Displacement of Conflict in Northern Mozambique"
+
+ * _Written with:_ Gavin Kiger, Americo Maluana, William Wainwright, and Danielle Jung
+
+### "Providence"
+
+> ## Data Collection
+
+### "Digitizing Private Correspondence from the East India Company (1769-1773)"
+
+<details>
+  <summary>Abstract</summary>
+The English East India Company (EIC) has been called one of the most well-documented corporations in human history. In this qualitative dataset, I gather all recorded correspondence, internal and external, from the Company records kept at the Asia and Africa Reading Room at the British Library. I particularly focus on the Presidency of Bengal, where the EIC first obtained the rigth to extract land taxes and began to govern as an administrative body during this period. Thus, this period covers one of the most influential moments in Company history -- defining how British colonial policy in India would be organized for more than a century. With more than 4,000 pages of handwritten documents, the first goal of this project is to digitize these letters and clearly record their contents.
+</details>
+
+ * _Keywords:_ Computer Vision; Natural Languange Processing; Predictive LLM; archival records
+
+
+### "Mapping Criminal Governance"
+
+<details>
+  <summary>Abstract</summary>
+How do criminal groups govern? While our understanding of governance by criminal organizations has grown, there is little systematic data to map it. This project seeks to address this gap. Using newspaper articles from _The New York Times_ containing the names of more than 50 randomly selected groups from across Latin America, this project implements a supervised machine learning approach to code more than thirty indicators of criminal governance. This indicators include who is governing (what group or groups), how they are governing (enforcing rules, collecting taxes, distributing goods), and who they are governing (civilians, other criminals, or the state). This project seeks to expand our understanding of criminal governance across the globe.
+</details>
+
+ * _Keywords:_ Criminal Governance; Latin America; Natural Language Processing; supervised machine learning
+
+
+
+
+
+
+
+
+
+
