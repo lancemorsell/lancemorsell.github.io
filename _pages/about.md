@@ -15,12 +15,31 @@ kramdown:
 
 **Welcome!**
 
-In Fall 2026, I will join the [Department of Political Science](https://polisci.la.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/) as an Assistant Professor. I received my Ph.D. in Political Science from [Emory University](https://www.emory.edu/home/index.html). 
+        
+    Communities today face increasingly complex challenges related to growth, redevelopment, economic competitiveness, and community identity. Successful planning efforts require more than a vision. They require meaningful stakeholder engagement, practical implementation strategies, and the ability to build consensus among diverse interests.
 
-My research examines how states govern through violence and non-state intermediaries, with a focus on criminal groups, militias, and other armed actors. I study how these relationships shape state capacity, democratic accountability, and civilian security across both historical and contemporary contexts.
+    I work with local governments, economic development organizations, nonprofit institutions, downtown districts, and community leaders to address these challenges through collaborative planning, strategic facilitation, and actionable recommendations. Drawing on experience across municipal government, economic development, and national advisory programs, I help communities move ambitious ideas toward achievable outcomes.
 
-I combine archival research and causal inference with mixed-methods approaches, drawing upon evidence from Mexico, British India, Northern Ireland, Haiti, and Mozambique. My research has been published in the *British Journal of Political Science* and is supported by the National Science Foundation and the Pearson Institute for Global Governance.
+    **Services** 
 
-As a co-founder of Women in [Political Science at Emory (WiPS-E)](https://x.com/WomeninPSEmory), I am committed to building and empowering a diverse and inclusive research community that bridges academic and policy networks.
+    *Small Area Planning*
 
-Before Emory, I earned my B.A. in Political Science from UNC Asheville, where I received the [Big South Christenberry Award](https://uncabulldogs.com/news/2020/5/20/womens-swimming-diving-adee-weller-receives-2020-big-south-christenberry-award.aspx) and was nominated for [NCAA Woman of the Year](https://www.ncaa.org/news/2020/7/14/ncaa-schools-announce-nominees-for-2020-ncaa-woman-of-the-year.aspx). I am originally from Boulder, Colorado.
+    Creating actionable plans for downtowns, neighborhoods, redevelopment districts, commercial centers, mixed-use growth areas, and emerging community destinations. My approach combines planning best practices with stakeholder engagement and implementation-focused recommendations. 
+
+    *Corridor Revitalization*
+
+    Helping communities reimagine aging commercial corridors, gateway districts, and emerging growth corridors through redevelopment strategies, placemaking initiatives, economic development planning, and long-term investment frameworks. 
+
+    *Economic Development* 
+    
+    Supporting communities in identifying opportunities for growth, investment, redevelopment, and economic competitiveness through strategic planning, market-informed recommendations, and implementation guidance. 
+
+    *Technical Assistance & Advisory Services* 
+    
+    Providing facilitation, stakeholder engagement, strategic assessments, and advisory services modeled on nationally recognized Technical Assistance Panel (TAP) programs. Services range from project scoping and stakeholder interviews to workshop facilitation and implementation planning. 
+
+    *Community Engagement & Facilitation* 
+
+    Designing and leading public engagement processes that bring residents, business leaders, elected officials, institutions, and stakeholders together around shared goals and achievable solutions. 
+
+

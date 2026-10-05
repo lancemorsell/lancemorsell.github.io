@@ -1,30 +1,45 @@
 ---
-permalink: /home/
+permalink: /
 title: "Home"
 layout: splash
 classes: wide
----
 
 feature_row:
-  - image_path: /assets/images/Weller_fix_1.jpg
+  - image_path: /assets/images/lance_headshot.png
+    alt: "Lance Morsell, AICP"
+    excerpt: "**Welcome!** <br><br> 
+        
+    Communities today face increasingly complex challenges related to growth, redevelopment, economic competitiveness, and community identity. Successful planning efforts require more than a vision. They require meaningful stakeholder engagement, practical implementation strategies, and the ability to build consensus among diverse interests.
+    <br />  <br />
 
-    excerpt: " **Welcome!** <br /> <br /> In Fall 2026, I will join the [Department of Political Science](https://polisci.la.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/) as an Assistant Professor. I received my Ph.D. in Political Science from [Emory University](https://www.emory.edu/home/index.html). <br />  <br />
+    I work with local governments, economic development organizations, nonprofit institutions, downtown districts, and community leaders to address these challenges through collaborative planning, strategic facilitation, and actionable recommendations. Drawing on experience across municipal government, economic development, and national advisory programs, I help communities move ambitious ideas toward achievable outcomes.
+    <br />  <br />
 
-    My research examines how states govern through violence and non-state intermediaries, with a focus on criminal groups, militias, and other armed actors. I study how these relationships shape state capacity, democratic accountability, and civilian security across both historical and contemporary contexts.
-    <br /> <br />
+    **Services** <br />  <br />
 
-    My work combines archival research, causal inference, and survey experiments, and draws on evidence from Mexico, British India, Northern Ireland, and Mozambique.
-       
-     <br /> <br />
-    Prior to joining Emory University, I received my B.A. in [Political Science](https://politicalscience.unca.edu/) from the [University of North Carolina Asheville](https://www.unca.edu/) in 2020, where I was awarded the [2020 Big South Christenberry Award](https://uncabulldogs.com/news/2020/5/20/womens-swimming-diving-adee-weller-receives-2020-big-south-christenberry-award.aspx) and was nominated for [NCAA Woman of the Year](https://www.ncaa.org/news/2020/7/14/ncaa-schools-announce-nominees-for-2020-ncaa-woman-of-the-year.aspx). I am originally from Boulder, Colorado."
+    *Small Area Planning*
+    <br />  <br />
+
+    Creating actionable plans for downtowns, neighborhoods, redevelopment districts, commercial centers, mixed-use growth areas, and emerging community destinations. My approach combines planning best practices with stakeholder engagement and implementation-focused recommendations. <br />  <br />
+
+    *Corridor Revitalization*
+    <br />  <br />
+
+    Helping communities reimagine aging commercial corridors, gateway districts, and emerging growth corridors through redevelopment strategies, placemaking initiatives, economic development planning, and long-term investment frameworks. <br />  <br />
+
+    *Economic Development* <br />  <br />
+    
+    Supporting communities in identifying opportunities for growth, investment, redevelopment, and economic competitiveness through strategic planning, market-informed recommendations, and implementation guidance. <br />  <br />
+
+    *Technical Assistance & Advisory Services* <br />  <br />
+    
+    Providing facilitation, stakeholder engagement, strategic assessments, and advisory services modeled on nationally recognized Technical Assistance Panel (TAP) programs. Services range from project scoping and stakeholder interviews to workshop facilitation and implementation planning. <br />  <br />
+
+    *Community Engagement & Facilitation* <br />  <br />
+
+    Designing and leading public engagement processes that bring residents, business leaders, elected officials, institutions, and stakeholders together around shared goals and achievable solutions."
 
 
 ---
 
-# url: "/about/"
-    # btn_class: "btn--primary"
-    # btn_label: "Explore my academic journey and research endeavors"    
-
-<!-- {% include feature_row id="intro" type="center" %} -->
-
-{% include feature_row id="feature_row" type="left" %}
+{% include feature_row type="left" %}

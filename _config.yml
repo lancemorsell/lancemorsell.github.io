@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Adee Weller
-email: adee.weller@psu.edu
+title: Lance Morsell, AICP
+email: lancemorsell@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am an Assistant Professor in the Department of Political Science at Penn State University. I study how armed groups intersect with and shape politics.
-twitter_username: AdeeWeller
-github_username: adeeweller
+  Helping Communities Move from Conversation to Action.
+# twitter_username: AdeeWeller
+github_username: lancemorsell
 minimal_mistakes_skin: default
 search: true
 
@@ -65,9 +65,9 @@ custom_sass:
 
 
 author:
-  name     : "Adee Weller"
-  avatar   : "/assets/images/prof_headshot_Emory5.png"
-  bio      : "I study how armed groups, militias, and corporations shape governance and democratic accountability."
+  name     : "Lance Morsell, AICP"
+  avatar   : "/assets/images/lance_headshot.png"
+  bio      : "Helping Communities Move from Conversation to Action."
   location : "State College, PA"
   links:
     # - label: "Website"
@@ -75,16 +75,16 @@ author:
     #   url: "https://adeeweller.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/adeeweller"
+      url: "https://github.com/lancemorsell"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/adee-weller"
-    - label: "X (formerly Twitter)"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/AdeeWeller?t=4g8vwVEqvT9z4df_V9MZzQ&s=09"
-    - label: "Bluesky"
-      icon: "fas fa-fw fa-cloud"
-      url: "https://bsky.app/profile/adeeweller.bsky.social"
+      url: "https://www.linkedin.com/in/lance-morsell"
+    # - label: "X (formerly Twitter)"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/AdeeWeller?t=4g8vwVEqvT9z4df_V9MZzQ&s=09"
+    # - label: "Bluesky"
+    #   icon: "fas fa-fw fa-cloud"
+    #   url: "https://bsky.app/profile/adeeweller.bsky.social"
 
    # - label: "Instagram" ### Twitter: fab fa-fw fa-twitter-square
    #   icon: "fab fa-fw fa-instagram"
@@ -94,13 +94,13 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/adeeweller"
-    - label: "X"
-      icon: "fa-brands fa-square-x-twitter"
-      url: "https://twitter.com/AdeeWeller?t=4g8vwVEqvT9z4df_V9MZzQ&s=09"
-    - label: "Bluesky"
-      icon: "fa-brands fa-bluesky"
-      url: "https://bsky.app/profile/adeeweller.bsky.social"
+      url: "https://github.com/lancemorsell"
+    # - label: "X"
+    #   icon: "fa-brands fa-square-x-twitter"
+    #   url: "https://twitter.com/AdeeWeller?t=4g8vwVEqvT9z4df_V9MZzQ&s=09"
+    # - label: "Bluesky"
+    #   icon: "fa-brands fa-bluesky"
+    #   url: "https://bsky.app/profile/adeeweller.bsky.social"
 
 defaults:
   # _posts
